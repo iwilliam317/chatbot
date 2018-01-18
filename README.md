@@ -1,20 +1,18 @@
 # ChatBot
-
 ###### A chatbot using BotFramework and NodeJS 
 
 
 
 
 ### Modules Included
+##### botbuilder
+##### restify
 
-###### botbuilder
 
 
 
 ### Running Project
-
 ###### Open the shell
-###### Access the directory of the project
-###### Locate the app.js 
+###### Access project's directory
 ###### Run the code below:
 >```node app ```

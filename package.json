@@ -12,6 +12,7 @@
   "author": "william shinji",
   "license": "ISC",
   "dependencies": {
-    "botbuilder": "^3.13.1"
+    "botbuilder": "^3.13.1",
+    "restify": "^6.3.4"
   }
 }
